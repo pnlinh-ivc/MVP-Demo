@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+        android:color="@color/selectable_item_background_general_ripple_light"
+        android:exitFadeDuration="@android:integer/config_shortAnimTime">
+</ripple>
+
+
